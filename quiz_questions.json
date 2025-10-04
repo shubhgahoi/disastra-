@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "Question": "What number should you call in India during any emergency?",
+    "Options": ["100", "108", "112", "101"],
+    "Answer": "112",
+    "Hint": "One helpline for all emergencies.",
+    "level": "Basic"
+  },
+  {
+    "id": 2,
+    "Question": "If clothes catch fire, what should you do?",
+    "Options": ["Run fast", "Stop, Drop, Roll", "Pour oil", "Shout only"],
+    "Answer": "Stop, Drop, Roll",
+    "Hint": "Rolling helps put out flames.",
+    "level": "Basic"
+  },
+  {
+    "id": 3,
+    "Question": "Where should you breathe if smoke fills a room?",
+    "Options": ["High up", "Middle", "Near the floor", "Close eyes"],
+    "Answer": "Near the floor",
+    "Hint": "Smoke rises.",
+    "level": "Basic"
+  },
+  {
+    "id": 4,
+    "Question": "What is the safest thing to store in an emergency kit?",
+    "Options": ["Snacks only", "Toys", "Water, flashlight, medicines", "Fancy items"],
+    "Answer": "Water, flashlight, medicines",
+    "Hint": "Think survival.",
+    "level": "Basic"
+  },
+  {
+    "id": 5,
+    "Question": "Where should you go after a fire drill evacuation?",
+    "Options": ["Assembly point", "Back inside", "Street corner", "Neighbour’s house"],
+    "Answer": "Assembly point",
+    "Hint": "Pre-decided safe spot.",
+    "level": "Basic"
+  },
+  {
+    "id": 6,
+    "Question": "During a lightning storm, where is the safest place?",
+    "Options": ["Open field", "Under a tree", "Inside a building", "On a terrace"],
+    "Answer": "Inside a building",
+    "Hint": "Trees attract lightning.",
+    "level": "Basic"
+  },
+  {
+    "id": 7,
+    "Question": "What should you wear on your head during earthquakes at school?",
+    "Options": ["Nothing", "Helmet/Book/Bag", "Cap", "Cloth only"],
+    "Answer": "Helmet/Book/Bag",
+    "Hint": "Protect your head.",
+    "level": "Basic"
+  },
+  {
+    "id": 8,
+    "Question": "Which of these is a natural disaster?",
+    "Options": ["Flood", "Fireworks", "Road accident", "Power cut"],
+    "Answer": "Flood",
+    "Hint": "Caused by nature.",
+    "level": "Basic"
+  },
+  {
+    "id": 9,
+    "Question": "If you see flood water, should you drink it?",
+    "Options": ["Yes", "Only little", "After boiling/filtering", "Always safe"],
+    "Answer": "After boiling/filtering",
+    "Hint": "Flood water may be contaminated.",
+    "level": "Basic"
+  },
+  {
+    "id": 10,
+    "Question": "Which color light is used for emergency vehicles?",
+    "Options": ["Green", "Red", "Yellow", "Blue"],
+    "Answer": "Red",
+    "Hint": "Seen clearly from far.",
+    "level": "Basic"
+  },
+  {
+    "id": 11,
+    "Question": "Why should you avoid elevators during a fire?",
+    "Options": ["Too slow", "They may stop/smoke", "Expensive", "Shakes"],
+    "Answer": "They may stop/smoke",
+    "Hint": "Power can fail.",
+    "level": "Intermediate"
+  },
+  {
+    "id": 12,
+    "Question": "In a cyclone, why secure doors/windows?",
+    "Options": ["For safety", "For decoration", "For thieves", "For fun"],
+    "Answer": "For safety",
+    "Hint": "Strong winds break glass.",
+    "level": "Intermediate"
+  },
+  {
+    "id": 13,
+    "Question": "What is the 'Triangle of Life' in earthquakes?",
+    "Options": ["Stand outside", "Beside sturdy furniture", "On roof", "Under fan"],
+    "Answer": "Beside sturdy furniture",
+    "Hint": "Survivable void space.",
+    "level": "Intermediate"
+  },
+  {
+    "id": 14,
+    "Question": "Why avoid touching electrical items with wet hands?",
+    "Options": ["Dirty", "Electrocution risk", "Breaks device", "Slippery"],
+    "Answer": "Electrocution risk",
+    "Hint": "Water conducts electricity.",
+    "level": "Intermediate"
+  },
+  {
+    "id": 15,
+    "Question": "What should you do first if you smell gas leak?",
+    "Options": ["Switch on fan", "Light candle", "Turn off source & open windows", "Call loudly"],
+    "Answer": "Turn off source & open windows",
+    "Hint": "Avoid sparks.",
+    "level": "Intermediate"
+  },
+  {
+    "id": 16,
+    "Question": "Why should you have family emergency contacts written down?",
+    "Options": ["Mobile may fail", "For decoration", "Homework", "Not needed"],
+    "Answer": "Mobile may fail",
+    "Hint": "Phones may run out of battery.",
+    "level": "Intermediate"
+  },
+  {
+    "id": 17,
+    "Question": "In case of fire, why crawl instead of running?",
+    "Options": ["Fun", "To avoid smoke inhalation", "Faster", "Teacher says"],
+    "Answer": "To avoid smoke inhalation",
+    "Hint": "Air is cleaner below.",
+    "level": "Intermediate"
+  },
+  {
+    "id": 18,
+    "Question": "During a heatwave, what should you drink?",
+    "Options": ["Soft drinks", "Cold coffee", "Water & ORS", "Alcohol"],
+    "Answer": "Water & ORS",
+    "Hint": "Prevent dehydration.",
+    "level": "Intermediate"
+  },
+  {
+    "id": 19,
+    "Question": "Why should you not enter fast flood waters even if shallow?",
+    "Options": ["Dirty clothes", "Strong current can sweep you", "Cold", "Muddy"],
+    "Answer": "Strong current can sweep you",
+    "Hint": "Even 6 inches can knock down.",
+    "level": "Intermediate"
+  },
+  {
+    "id": 20,
+    "Question": "What is the purpose of a mock drill?",
+    "Options": ["Fun activity", "To waste time", "To practice real emergency steps", "To punish students"],
+    "Answer": "To practice real emergency steps",
+    "Hint": "Practice makes you ready.",
+    "level": "Intermediate"
+  },
+
+  {
+    "id": 21,
+    "Question": "Why move to higher ground during a tsunami?",
+    "Options": ["Fresh air", "Watch waves", "Water force destroys even strong buildings", "Fun"],
+    "Answer": "Water force destroys even strong buildings",
+    "Hint": "Height > strength.",
+    "level": "Hard"
+  },
+  {
+    "id": 22,
+    "Question": "What makes a 'Go-Bag' special?",
+    "Options": ["Party kit", "Heavy bag", "Portable 72-hour survival kit", "Fashion item"],
+    "Answer": "Portable 72-hour survival kit",
+    "Hint": "Grab & run.",
+    "level": "Hard"
+  },
+  {
+    "id": 23,
+    "Question": "Why not re-enter a damaged building after earthquake?",
+    "Options": ["Dirty", "Haunted", "Aftershocks cause collapse", "People stop you"],
+    "Answer": "Aftershocks cause collapse",
+    "Hint": "First quake isn’t last.",
+    "level": "Hard"
+  },
+  {
+    "id": 24,
+    "Question": "During a chemical spill, which direction should you move?",
+    "Options": ["Downwind", "Towards spill", "Upwind", "Into zone"],
+    "Answer": "Upwind",
+    "Hint": "Opposite to fumes.",
+    "level": "Hard"
+  },
+  {
+    "id": 25,
+    "Question": "Why is handwashing critical after flood cleanup?",
+    "Options": ["For photos", "To avoid infections & diseases", "For smell", "Not needed"],
+    "Answer": "To avoid infections & diseases",
+    "Hint": "Flood water is contaminated.",
+    "level": "Hard"
+  },
+  {
+    "id": 26,
+    "Question": "Why carry a whistle in survival kits?",
+    "Options": ["Decoration", "Attract animals", "To signal for help without losing energy", "Game"],
+    "Answer": "To signal for help without losing energy",
+    "Hint": "Louder than voice.",
+    "level": "Hard"
+  },
+  {
+    "id": 27,
+    "Question": "Why should tall shelves be secured before earthquakes?",
+    "Options": ["For beauty", "To avoid falling & injuries", "Save dust", "To balance"],
+    "Answer": "To avoid falling & injuries",
+    "Hint": "Heavy objects topple.",
+    "level": "Hard"
+  },
+  {
+    "id": 28,
+    "Question": "Why is it important to purify water after disaster?",
+    "Options": ["For taste", "For looks", "To remove germs", "To save cost"],
+    "Answer": "To remove germs",
+    "Hint": "Clean water = safe health.",
+    "level": "Hard"
+  },
+  {
+    "id": 29,
+    "Question": "Why avoid standing near windows during storms?",
+    "Options": ["For light", "They may break & injure", "To avoid sun", "Decoration"],
+    "Answer": "They may break & injure",
+    "Hint": "Flying glass is dangerous.",
+    "level": "Hard"
+  },
+  {
+    "id": 30,
+    "Question": "Why is communication planning vital during disasters?",
+    "Options": ["For fun", "To know where to meet, who to call, how to stay safe", "For class marks", "Not needed"],
+    "Answer": "To know where to meet, who to call, how to stay safe",
+    "Hint": "Plan keeps family connected.",
+    "level": "Hard"
+  }
+]

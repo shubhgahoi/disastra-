@@ -1,0 +1,104 @@
+{
+  "disaster": [
+    {
+      "id": "EQ01",
+      "type": "Earthquake",
+      "warnings": [
+        "Drop, Cover, and Hold immediately.",
+        "Stay away from windows and heavy objects."
+      ],
+      "alerts": [
+        "Aftershocks may follow.",
+        "Do not use elevators."
+      ],
+      "safety_protocols": [
+        "Move to an open area once tremors stop.",
+        "Turn off gas and electricity if safe."
+      ],
+      "advice": [
+        "Practice earthquake drills regularly.",
+        "Keep a torch, first aid kit, and emergency supplies ready."
+      ]
+    },
+    {
+      "id": "FD01",
+      "type": "Fire",
+      "warnings": [
+        "Do not panic.",
+        "Avoid using lifts."
+      ],
+      "alerts": [
+        "Smoke is toxic—cover your mouth and nose with a cloth.",
+        "If trapped, signal for help from a window."
+      ],
+      "safety_protocols": [
+        "Stop, Drop, and Roll if clothes catch fire.",
+        "Use fire extinguishers if available."
+      ],
+      "advice": [
+        "Install smoke detectors at home or school.",
+        "Keep exit routes clear and practice fire drills."
+      ]
+    },
+    {
+      "id": "FL01",
+      "type": "Flood",
+      "warnings": [
+        "Move to higher ground immediately.",
+        "Avoid low-lying areas."
+      ],
+      "alerts": [
+        "Do not walk or drive through floodwaters.",
+        "Boil water before drinking."
+      ],
+      "safety_protocols": [
+        "Switch off electricity from the main supply.",
+        "Store clean drinking water and dry food."
+      ],
+      "advice": [
+        "Keep important documents in waterproof bags.",
+        "Have an emergency kit ready with food, water, and medicine."
+      ]
+    },
+    {
+      "id": "CY01",
+      "type": "Cyclone",
+      "warnings": [
+        "Stay indoors and keep away from windows.",
+        "Do not venture out until official confirmation."
+      ],
+      "alerts": [
+        "Strong winds and flying debris possible.",
+        "Power and communication lines may be disrupted."
+      ],
+      "safety_protocols": [
+        "Board up windows and doors securely.",
+        "Keep emergency lamps and radio handy."
+      ],
+      "advice": [
+        "Store enough food, water, and medicines for 3 days.",
+        "Stay tuned to weather updates and alerts."
+      ]
+    },
+    {
+      "id": "CYB01",
+      "type": "Cyber Attack",
+      "warnings": [
+        "Do not share OTPs or passwords with anyone.",
+        "Avoid clicking unknown email links."
+      ],
+      "alerts": [
+        "Suspicious login detected.",
+        "Unusual data download from your device."
+      ],
+      "safety_protocols": [
+        "Enable two-factor authentication (2FA).",
+        "Update antivirus and software regularly."
+      ],
+      "advice": [
+        "Report incidents to the cybercrime portal.",
+        "Educate yourself and others about phishing scams."
+      ]
+    }
+  ]
+}

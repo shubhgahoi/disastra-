@@ -1,0 +1,57 @@
+[
+    {
+      "disaster": "Earthquake",
+      "warnings": ["Expect aftershocks.", "Be aware of falling debris."],
+      "alerts": ["Tsunami warning may be in effect for coastal areas."],
+      "safety_protocols": [
+        "If indoors, stay there. Get under a desk or table.",
+        "If outdoors, find a clear spot away from buildings and power lines.",
+        "Drop, Cover, and Hold On."
+      ],
+      "advice": ["Check yourself and others for injuries.", "Check for gas leaks."]
+    },
+    {
+      "disaster": "Fire",
+      "warnings": ["Smoke inhalation is a major hazard.", "Fires can spread rapidly."],
+      "alerts": ["Evacuate immediately if you hear a fire alarm."],
+      "safety_protocols": [
+        "Feel doors for heat before opening them.",
+        "Stay low to the ground to avoid smoke.",
+        "Have an escape plan and a meeting point."
+      ],
+      "advice": ["Never use an elevator during a fire.", "Close doors behind you to slow the spread of fire."]
+    },
+    {
+      "disaster": "Flood",
+      "warnings": ["Do not walk, swim, or drive through floodwaters.", "Six inches of moving water can knock you down."],
+      "alerts": ["A Flash Flood Warning means a flash flood is imminent or occurring."],
+      "safety_protocols": [
+        "Move to higher ground immediately.",
+        "Avoid bridges over fast-moving water.",
+        "Disconnect electrical appliances."
+      ],
+      "advice": ["Listen to weather reports and evacuation orders.", "Keep emergency supplies ready."]
+    },
+    {
+      "disaster": "Cyclone",
+      "warnings": ["High winds and heavy rain are expected.", "Secure loose objects outdoors."],
+      "alerts": ["Evacuation orders may be issued for low-lying areas."],
+      "safety_protocols": [
+        "Stay indoors and away from windows.",
+        "Have an emergency kit ready.",
+        "Monitor official news sources."
+      ],
+      "advice": ["Charge all electronic devices.", "Fill bathtubs with water for sanitation."]
+    },
+    {
+      "disaster": "Cyber Attack",
+      "warnings": ["Phishing scams may increase during emergencies.", "Official websites may be spoofed."],
+      "alerts": ["Be wary of unsolicited requests for personal information."],
+      "safety_protocols": [
+        "Use strong, unique passwords for all accounts.",
+        "Enable two-factor authentication (2FA).",
+        "Verify information from trusted sources before acting."
+      ],
+      "advice": ["Disconnect from the internet if you suspect a breach.", "Report suspicious activity immediately."]
+    }
+]

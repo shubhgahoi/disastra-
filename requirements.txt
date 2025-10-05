@@ -1,0 +1,4 @@
+Flask
+gunicorn
+pyttsx3
+requests
